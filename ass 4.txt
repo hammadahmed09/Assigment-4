@@ -1,8 +1,8 @@
 void main()                
-### ANS : 2 ###
+ANS : 2
 {
 
-table(7);  
+table(8);  
 
 }
 
@@ -20,7 +20,8 @@ void table(int n)
 ____________________________
 
 void main()                
-### ANS : 3 ### {
+ANS : 3 
+{
 
   array(5);
 
@@ -44,9 +45,9 @@ for(var i=0; i<lst.length-1 ; i++)
 ____________________________
 
 void main() 
-### ANS : 4 ###                 
+ANS : 4                 
  
-{List <String> names=["Hasan","Samar","Haris","Owais","Shaheer"];
+{List <String> names=["Haseeb","Ahmed","Haris","Owais","Shahmeer"];
 
 List marks=[87,83,75,68,91];
 for(var x=0 ; x<marks.length; x++)
@@ -80,7 +81,7 @@ ____________________________
 
 
 void main()                
-### ANS : 5 ###
+ANS : 5
 
 {
 
@@ -93,10 +94,10 @@ Bio_data.info();
 class Data
 {
 void info(){
-  String name="Samar Ali";
+  String name="Haider Ali";
   int age=19;
  
- var courses_list=["Programming","Calculus","Statistics"];
+ var courses_list=["Programming","English","Statistics"];
   
 print("Bio Data of one person=");
   print("name = $name"); 
@@ -111,9 +112,8 @@ ____________________________
 
 
 void main()              
-  ### ANS : 
-6 ###
-{
+ ANS : 6 
+  {
 
   var YourName=Name();
  
@@ -124,7 +124,7 @@ print("My Name Is ${YourName.name}");
 
 class Name
 {
-String name="Samar Ali"; 
+String name="Haider Ali"; 
 
 
 
@@ -134,10 +134,10 @@ ____________________________
 
 
 void main()               
- ### ANS : 7 ###               
+ ANS : 7               
  
 {
-  var My_data=BioData("Samar",19,"BSCS");
+  var My_data=BioData("Haider",21,"BSCS");
  
 print("${My_data.Name} ${My_data.Age} ${My_data.Education}");
 
@@ -168,7 +168,7 @@ ____________________________
 
 
 void main()
-### ANS : 8 ###                 
+ANS : 8                  
 
 {
 
